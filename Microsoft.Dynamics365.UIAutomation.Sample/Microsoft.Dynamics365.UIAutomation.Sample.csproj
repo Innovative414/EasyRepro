@@ -86,6 +86,7 @@
     <Compile Include="UCI\CommandBar\CloseOpportunity.cs" />
     <Compile Include="UCI\CommandBar\DuplicateDetection.cs" />
     <Compile Include="UCI\CommandBar\SelectDashboard.cs" />
+    <Compile Include="UCI\Create\Custom_Funktion.cs" />
     <Compile Include="UCI\Create\CreateAccount.cs" />
     <Compile Include="UCI\Create\CreateCase.cs" />
     <Compile Include="UCI\Create\CreateContact.cs" />
